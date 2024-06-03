@@ -1,0 +1,71 @@
+{
+  "product": "Norway Public Holidays 2025",
+  "roadmapItems": [
+    {
+      "title": "New Year's Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-01-01T12:00:00",
+      "endDate": "2025-01-01T12:00:00",
+      "source": "Government of Norway",
+      "product": "Norway Public Holidays 2025",
+      "style": "blue",
+      "description": "Celebration of the first day of the year"
+    },
+    {
+      "title": "Easter Sunday",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-04-20T12:00:00",
+      "endDate": "2025-04-20T12:00:00",
+      "source": "Government of Norway",
+      "product": "Norway Public Holidays 2025",
+      "style": "yellow",
+      "description": "Celebration of the resurrection of Jesus"
+    },
+    {
+      "title": "Labour Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-05-01T12:00:00",
+      "endDate": "2025-05-01T12:00:00",
+      "source": "Government of Norway",
+      "product": "Norway Public Holidays 2025",
+      "style": "green",
+      "description": "Celebration of workers and their achievements"
+    },
+    {
+      "title": "Constitution Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-05-17T12:00:00",
+      "endDate": "2025-05-17T12:00:00",
+      "source": "Government of Norway",
+      "product": "Norway Public Holidays 2025",
+      "style": "red",
+      "description": "Celebration of the Norwegian Constitution"
+    },
+    {
+      "title": "Christmas Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-12-25T12:00:00",
+      "endDate": "2025-12-25T12:00:00",
+      "source": "Government of Norway",
+      "product": "Norway Public Holidays 2025",
+      "style": "deepPurple",
+      "description": "Celebration of the birth of Jesus"
+    },
+    {
+      "title": "New Year's Eve",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-12-31T12:00:00",
+      "endDate": "2025-12-31T12:00:00",
+      "source": "Government of Norway",
+      "product": "Norway Public Holidays 2025",
+      "style": "orange",
+      "description": "Celebration of the end of the year"
+    }
+  ]
+}
